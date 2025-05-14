@@ -13,3 +13,6 @@ program, what does it mean?
 
 ### subscriber connected
 ![running RabbitMQ.](images/subscriber-connected.png)
+
+### Monitoring chart based on publisher
+![running RabbitMQ.](images/monitoring-chart-based-on-publisher.png)
